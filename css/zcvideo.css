@@ -1,0 +1,6 @@
+.post-type-zcvideo_video #preview-action, 
+.post-type-zcvideo_video #edit-slug-box,
+.post-type-zcvideo_video #message.updated a /* remove "View Post" */
+{
+	display: none;
+}
